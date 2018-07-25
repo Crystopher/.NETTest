@@ -1,0 +1,5 @@
+C:\Progetti\NuGetTest\WebAppTest\libraryTest\bin\Release\libraryTest.dll
+C:\Progetti\NuGetTest\WebAppTest\libraryTest\bin\Release\libraryTest.pdb
+C:\Progetti\NuGetTest\WebAppTest\libraryTest\obj\Release\libraryTest.csproj.CoreCompileInputs.cache
+C:\Progetti\NuGetTest\WebAppTest\libraryTest\obj\Release\libraryTest.dll
+C:\Progetti\NuGetTest\WebAppTest\libraryTest\obj\Release\libraryTest.pdb
